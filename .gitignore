@@ -1,0 +1,4 @@
+# secrets (never commit)
+config/secrets.local.json
+.env
+.streamlit/secrets.toml
