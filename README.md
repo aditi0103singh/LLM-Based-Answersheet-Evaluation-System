@@ -13,7 +13,7 @@ Automated subjective answer scoring
 
 Keyword matching & semantic similarity
 
-LLM-based evaluation (optional)
+LLM-based evaluation 
 
 Mis-spell correction
 
@@ -31,13 +31,9 @@ Keyword-based Scoring
 
 Semantic Similarity Scoring (Sentence Transformers)
 
-LLM-based Evaluation (GPT/Llama/Gemma supported)
+LLM-based Evaluation (Gemini)
 
 Automated Marks Calculation
-
-Feedback Generator
-
-Plagiarism Detection (Optional)
 
 Web Interface (FastAPI / Streamlit)
 
